@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.container{
+ 
+  display: inline-block;
+  margin:100px auto;
+  height: 230px;
+  width: 460px;
+  background-color: lightgray;
+}
+button{
+  padding: 10px;
+  width: 80%;;
+  background-color: rgb(52, 110, 237);
+  color: white;
+  border-radius: 5px;
+}
+#range{
+  padding: 10px;
+  width: 80%;
+  display: inline-block;
+}
+
